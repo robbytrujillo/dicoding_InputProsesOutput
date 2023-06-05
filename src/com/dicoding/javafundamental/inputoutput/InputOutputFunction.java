@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class InputOutputFunction {
 
+    // inisaliasi scanner
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Program penjumlahan sangat sederhana");
